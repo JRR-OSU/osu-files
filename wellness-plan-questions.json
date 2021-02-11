@@ -1,0 +1,136 @@
+{
+  "status": "success",
+  "lastModified": "2021-02-08T19:45:28.589Z",
+  "data": {
+    "questions": [
+      {
+        "id": "strategies",
+        "type": "dropDown",
+        "description": "These are five proactive wellness strategies I can use for self-care",
+        "title": "Wellness Strategies",
+        "minimumValue": 92,
+        "maximumValue": 105,
+        "required": true,
+        "choices": [
+          {
+            "id": 1,
+            "title": "Be active"
+          },
+          {
+            "id": 2,
+            "title": "Enjoy Nature"
+          },
+          {
+            "id": 3,
+            "title": "Clean"
+          },
+          {
+            "id": 4,
+            "title": "Stay organized"
+          },
+          {
+            "id": 5,
+            "title": "Socialize with friends"
+          },
+          {
+            "id": 6,
+            "title": "Engage in mindfulness activities"
+          },
+          {
+            "id": 7,
+            "title": "Get involved in a student organization, sport club, or volunteer group"
+          },
+          {
+            "id": 8,
+            "title": "Engage in a creative outlet"
+          },
+          {
+            "id": 9,
+            "title": "Practice gratitude"
+          },
+          {
+            "id": 10,
+            "title": "8 hours of sleep"
+          },
+          {
+            "id": 11,
+            "title": "Feed your body healthy foods regularly"
+          },
+          {
+            "id": 12,
+            "title": "Unplug from technology"
+          }
+        ]
+      },
+      {
+        "id": "difficulties",
+        "type": "dropDown",
+        "description": "When difficulties present in my life, these are five strategies I will employ to stay resilient:",
+        "title": "Strategies for resillience",
+        "minimumValue": 92,
+        "maximumValue": 105,
+        "required": true,
+        "choices": [
+          {
+            "id": 1,
+            "title": "Cry it out"
+          },
+          {
+            "id": 2,
+            "title": "Take an extended break"
+          },
+          {
+            "id": 3,
+            "title": "Reach out for help"
+          },
+          {
+            "id": 4,
+            "title": "Be active"
+          },
+          {
+            "id": 5,
+            "title": "Laugh it out"
+          },
+          {
+            "id": 6,
+            "title": "Draw/Paint"
+          },
+          {
+            "id": 7,
+            "title": "Enjoy Nature"
+          },
+          {
+            "id": 8,
+            "title": "Journal/Write down your thoughts"
+          },
+          {
+            "id": 9,
+            "title": "Reevaluate expectations"
+          },
+          {
+            "id": 10,
+            "title": "Focus on your basic needs first"
+          },
+          {
+            "id": 11,
+            "title": "Reflect on accomplishments"
+          }
+        ]
+      },
+      {
+        "id": "rely",
+        "type": "textInput",
+        "description": "",
+        "title": "Who can I rely on to talk to?",
+        "required": true
+      },
+      {
+        "id": "reward",
+        "type": "textInput",
+        "description": "Healthy rewards could entail:1.Watch a movie2.Take a bath3.Listen to music4.Take a nap5.Buy myself flowers or a houseplant 6.15 minutes on social media7.Take a walk8.Enjoy myfavorite snack9.Make my favorite meal10.Go for a drive11.Cross the task off my to-do list",
+        "title": "How will I reward myself?",
+        "required": true
+      }
+    ]
+  }
+}
