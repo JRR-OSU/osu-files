@@ -127,7 +127,7 @@
       {
         "id": "reward",
         "type": "textInput",
-        "description": "Healthy rewards could entail:1.Watch a movie2.Take a bath3.Listen to music4.Take a nap5.Buy myself flowers or a houseplant 6.15 minutes on social media7.Take a walk8.Enjoy myfavorite snack9.Make my favorite meal10.Go for a drive11.Cross the task off my to-do list",
+        "description": "Healthy rewards could entail:\n1.Watch a movie\n2.Take a bath\n3.Listen to music\n4.Take a nap\n5.Buy myself flowers or a houseplant\n6.15 minutes on social media\n7.Take a walk\n8.Enjoy my favorite snack\n9.Make my favorite meal\n10.Go for a drive\n11.Cross the task off my to-do list",
         "title": "How will I reward myself?",
         "required": true
       }
