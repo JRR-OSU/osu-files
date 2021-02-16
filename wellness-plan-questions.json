@@ -11,6 +11,7 @@
         "minimumValue": 92,
         "maximumValue": 105,
         "required": true,
+        "numberOfResponses": 5,
         "choices": [
           {
             "id": 1,
@@ -70,6 +71,7 @@
         "minimumValue": 92,
         "maximumValue": 105,
         "required": true,
+        "numberOfResponses": 5,
         "choices": [
           {
             "id": 13,
