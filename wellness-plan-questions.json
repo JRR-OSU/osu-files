@@ -6,7 +6,7 @@
       {
         "id": "strategies",
         "type": "dropDown",
-        "description": "These are five proactive wellness strategies I can use for self-care",
+        "description": "I’ll use these five wellness strategies to proactively care for my well-being:",
         "title": "Wellness Strategies",
         "minimumValue": 92,
         "maximumValue": 105,
@@ -66,7 +66,7 @@
       {
         "id": "difficulties",
         "type": "dropDown",
-        "description": "When difficulties present in my life, these are five strategies I will employ to stay resilient:",
+        "description": "I’ll use these five strategies to stay resilient when difficulties come up in my life:",
         "title": "Strategies for resillience",
         "minimumValue": 92,
         "maximumValue": 105,
@@ -121,9 +121,9 @@
       },
       {
         "id": "rely",
-        "type": "textInput",
+        "type": "multilineTextInput",
         "description": "",
-        "title": "Who can I rely on to talk to?",
+        "title": "I’ll contact these people when I need to talk:",
         "required": true
       },
       {
@@ -131,6 +131,43 @@
         "type": "dropDown",
         "description": "Healthy rewards could entail:\n1. Watching a movie\n2. Taking a bath\n3. Listening to music\n4. Taking a nap\n5. Buying myself flowers or a houseplant\n6. Spending 15 minutes on social media\n7. Taking a walk\n8. Enjoying my favorite snack\n9. Making my favorite meal\n10. Going for a drive\n11. Crossing the task off my to-do list",
         "title": "I'll reward myself by...",
+        "required": true
+      },
+      {
+        "id": "resources",
+        "type": "dropDown",
+        "description": "",
+        "title": "If I’m not sure what to do, I’ll use these campus resources:",
+        "required": true,
+        "numberOfResponses": 5,
+        "choices": [
+          {
+            "id": 24,
+            "title": "Schedule a Let’s Talk session, a 20-minute mental health consultation"
+          },
+          {
+            "id": 25,
+            "title": "Call the Peer Access Line to talk with a peer, get support and learn about resources"
+          },
+          {
+            "id": 26,
+            "title": "Attend a Counseling and Consultation Service drop-in workshop to learn and practice mental health skills"
+          },
+          {
+            "id": 27,
+            "title": "Schedule a Wellness Coaching session to identify my strengths and set personal goals"
+          },
+          {
+            "id": 28,
+            "title": "Explore the Support tab to discover additional resources available"
+          }
+        ]
+      },
+      {
+        "id": "focus",
+        "type": "multilineTextInput",
+        "description": "",
+        "title": "I’d like to focus on these personal well-being goals:",
         "required": true
       }
     ]
