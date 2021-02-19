@@ -75,11 +75,11 @@
         "choices": [
           {
             "id": 13,
-            "title": "Cry it out"
+            "title": "Focus on my basic needs first"
           },
           {
             "id": 14,
-            "title": "Take an extended break"
+            "title": "Reflect on accomplishments"
           },
           {
             "id": 15,
@@ -87,35 +87,43 @@
           },
           {
             "id": 16,
-            "title": "Be active"
+            "title": "Take an extended break"
           },
           {
             "id": 17,
-            "title": "Laugh it out"
+            "title": "Be active"
           },
           {
             "id": 18,
-            "title": "Draw/Paint"
+            "title": "Laugh it out"
           },
           {
             "id": 19,
-            "title": "Enjoy Nature"
+            "title": "Cry it out"
           },
           {
             "id": 20,
-            "title": "Journal/Write down your thoughts"
+            "title": "Draw/Paint"
           },
           {
             "id": 21,
-            "title": "Reevaluate expectations"
+            "title": "Enjoy Nature"
           },
           {
             "id": 22,
-            "title": "Focus on your basic needs first"
+            "title": "Journal/Write down your thoughts"
           },
           {
             "id": 23,
-            "title": "Reflect on accomplishments"
+            "title": "Draw/Paint"
+          },
+          {
+            "id": 24,
+            "title": "Journal/Write down my thoughts"
+          },
+          {
+            "id": 25,
+            "title": "Reevaluate expectations"
           }
         ]
       },
@@ -129,9 +137,60 @@
       {
         "id": "reward",
         "type": "dropDown",
-        "description": "Healthy rewards could entail:\n1. Watching a movie\n2. Taking a bath\n3. Listening to music\n4. Taking a nap\n5. Buying myself flowers or a houseplant\n6. Spending 15 minutes on social media\n7. Taking a walk\n8. Enjoying my favorite snack\n9. Making my favorite meal\n10. Going for a drive\n11. Crossing the task off my to-do list",
+        "description": "Healthy rewards could entail:",
         "title": "I'll reward myself by...",
-        "required": true
+        "required": true,
+        "numberOfResponses": 1,
+        "choices": [
+          {
+            "id": 26,
+            "title": "Watching a movie"
+          },
+          {
+            "id": 27,
+            "title": "Taking a bath"
+          },
+          {
+            "id": 28,
+            "title": "Listening to music"
+          },
+          {
+            "id": 29,
+            "title": "Taking a nap"
+          },
+          {
+            "id": 30,
+            "title": "Buying myself flowers or a houseplant"
+          },
+          {
+            "id": 31,
+            "title": "Spending 15 minutes on social media"
+          },
+          {
+            "id": 32,
+            "title": "Taking a walk"
+          },
+          {
+            "id": 33,
+            "title": "Enjoying my favorite snack"
+          },
+          {
+            "id": 34,
+            "title": "Making my favorite meal"
+          },
+          {
+            "id": 35,
+            "title": "Focus on your basic needs first"
+          },
+          {
+            "id": 36,
+            "title": "Going for a drive"
+          },
+          {
+            "id": 37,
+            "title": "Crossing a task off my to-do list"
+          }
+        ]
       },
       {
         "id": "resources",
@@ -142,23 +201,23 @@
         "numberOfResponses": 5,
         "choices": [
           {
-            "id": 24,
+            "id": 38,
             "title": "Schedule a Let’s Talk session, a 20-minute mental health consultation"
           },
           {
-            "id": 25,
+            "id": 39,
             "title": "Call the Peer Access Line to talk with a peer, get support and learn about resources"
           },
           {
-            "id": 26,
+            "id": 40,
             "title": "Attend a Counseling and Consultation Service drop-in workshop to learn and practice mental health skills"
           },
           {
-            "id": 27,
+            "id": 41,
             "title": "Schedule a Wellness Coaching session to identify my strengths and set personal goals"
           },
           {
-            "id": 28,
+            "id": 42,
             "title": "Explore the Support tab to discover additional resources available"
           }
         ]
