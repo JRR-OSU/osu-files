@@ -128,9 +128,9 @@
       },
       {
         "id": "reward",
-        "type": "textInput",
-        "description": "Healthy rewards could entail:\n1. Watch a movie\n2. Take a bath\n3. Listen to music\n4. Take a nap\n5. Buy myself flowers or a houseplant\n6. 15 minutes on social media\n7. Take a walk\n8. Enjoy my favorite snack\n9. Make my favorite meal\n10. Go for a drive\n11. Cross the task off my to-do list",
-        "title": "How will I reward myself?",
+        "type": "dropDown",
+        "description": "Healthy rewards could entail:\n1. Watching a movie\n2. Taking a bath\n3. Listening to music\n4. Taking a nap\n5. Buying myself flowers or a houseplant\n6. Spending 15 minutes on social media\n7. Taking a walk\n8. Enjoying my favorite snack\n9. Making my favorite meal\n10. Going for a drive\n11. Crossing the task off my to-do list",
+        "title": "I'll reward myself by...",
         "required": true
       }
     ]
