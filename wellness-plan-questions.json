@@ -132,7 +132,8 @@
         "type": "multilineTextInput",
         "description": "",
         "title": "I’ll contact these people when I need to talk:",
-        "required": true
+        "required": true,
+        "rememberMe": true
       },
       {
         "id": "reward",
@@ -227,7 +228,8 @@
         "type": "multilineTextInput",
         "description": "",
         "title": "I’d like to focus on these personal well-being goals:",
-        "required": true
+        "required": true,
+        "rememberMe": true
       }
     ]
   }
